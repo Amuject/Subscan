@@ -23,6 +23,9 @@
     "scan": "node lib/index.js",
     "babel": "npx babel src --out-file-extension .js --out-dir lib"
   },
+  "dependencies": {
+    "@wanyne/dns": "^1.1.4"
+  },
   "devDependencies": {
     "@babel/cli": "^7.14.8",
     "@babel/core": "^7.14.8",
