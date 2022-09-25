@@ -1,6 +1,6 @@
 {
   "name": "subscan",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple subdomain scanner",
   "author": "Wany <sung@wany.io> (https://wany.io)",
   "main": "lib/index.js",
