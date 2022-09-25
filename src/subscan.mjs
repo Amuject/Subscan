@@ -1,12 +1,3 @@
-/**
- * subscan
- *
- * (c) 2022 Wany
- *
- * @summary Scan subdomains in search engines
- * @author Wany <sung@wany.io>
- */
-
 import fs from 'fs';
 import http from 'http';
 import https from 'https';
