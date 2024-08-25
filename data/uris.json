@@ -1,0 +1,13 @@
+[
+  "https://crt.sh/?q={domain}",
+  "https://jonlu.ca/anubis/subdomains/{domain}",
+  "https://api.threatminer.org/v2/domain.php?q={domain}&rt=5",
+  "https://api.hackertarget.com/hostsearch?q={domain}",
+  "https://securitytrails.com/list/keyword/{domain}",
+  "https://www.google.com/search?q=site:{domain}+-www&oq=site:{domain}+-www&uact=5",
+  "https://duckduckgo.com/html/?q=site:{domain}",
+  "https://search.naver.com/search.naver?query={domain}",
+  "https://www.bing.com/search?q=site:{domain}",
+  "https://search.yahoo.com/search?p=site:{domain}",
+  "https://api.twitter.com/1.1/search/tweets.json?q={domain}&count=1000"
+]
